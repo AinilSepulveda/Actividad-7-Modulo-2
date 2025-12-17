@@ -1,0 +1,27 @@
+[33m58f2fb5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: improve the description in the Readme file
+[33m12da2fa[m HEAD@{1}: cherry-pick: feature navbar with items
+[33m41e31c8[m HEAD@{2}: pull --tags origin main: Fast-forward
+[33m628eaa2[m HEAD@{3}: merge feature-x: Merge made by the 'ort' strategy.
+[33mba8c1c3[m HEAD@{4}: checkout: moving from feature-x to main
+[33mf9ea40e[m[33m ([m[1;32mfeature-x[m[33m)[m HEAD@{5}: merge feature/navbar: Merge made by the 'ort' strategy.
+[33m28f2be8[m HEAD@{6}: checkout: moving from main to feature-x
+[33mba8c1c3[m HEAD@{7}: checkout: moving from main to main
+[33mba8c1c3[m HEAD@{8}: checkout: moving from main to main
+[33mba8c1c3[m HEAD@{9}: checkout: moving from ba8c1c39d1d77ccec27185d5f4e416211cf69d04 to main
+[33mba8c1c3[m HEAD@{10}: checkout: moving from main to origin/main
+[33mba8c1c3[m HEAD@{11}: checkout: moving from main to main
+[33mba8c1c3[m HEAD@{12}: checkout: moving from feature-x to main
+[33m28f2be8[m HEAD@{13}: checkout: moving from feature/navbar to feature-x
+[33m0787d60[m[33m ([m[1;31morigin/feature/navbar[m[33m, [m[1;32mfeature/navbar[m[33m)[m HEAD@{14}: checkout: moving from feature-x to feature/navbar
+[33m28f2be8[m HEAD@{15}: pull --tags origin feature-x: Fast-forward
+[33med1e498[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{16}: checkout: moving from main to feature-x
+[33mba8c1c3[m HEAD@{17}: checkout: moving from feature/navbar to main
+[33m0787d60[m[33m ([m[1;31morigin/feature/navbar[m[33m, [m[1;32mfeature/navbar[m[33m)[m HEAD@{18}: checkout: moving from main to feature/navbar
+[33mba8c1c3[m HEAD@{19}: checkout: moving from feature/navbar to main
+[33m0787d60[m[33m ([m[1;31morigin/feature/navbar[m[33m, [m[1;32mfeature/navbar[m[33m)[m HEAD@{20}: checkout: moving from main to feature/navbar
+[33mba8c1c3[m HEAD@{21}: commit: Simulate init commit
+[33m0787d60[m[33m ([m[1;31morigin/feature/navbar[m[33m, [m[1;32mfeature/navbar[m[33m)[m HEAD@{22}: checkout: moving from feature/navbar to main
+[33m0787d60[m[33m ([m[1;31morigin/feature/navbar[m[33m, [m[1;32mfeature/navbar[m[33m)[m HEAD@{23}: commit: feature navbar with items
+[33med1e498[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{24}: checkout: moving from feature-x to feature/navbar
+[33med1e498[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{25}: checkout: moving from master to feature-x
+[33med1e498[m[33m ([m[1;32mmaster[m[33m)[m HEAD@{26}: commit (initial): init commit from template

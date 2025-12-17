@@ -1,0 +1,14 @@
+Hola! emm me complique mas de la cuenta es que primero hice una rama creada feature-X por que pensé que main, se creaba solo pero no lo hizo, se creo como "main" el feature-x. 
+No me di cuenta al principio así que cree otra rama de feature/navbar para crear un navbar 
+
+después me di cuenta, de aquello y cree main 
+quite el contenido de html5 
+luego hice merge pero no se trajo correctamente 
+así que hice un checkperry a un hashset del commit donde tenia todo 
+y luego hice el commit desde main 
+
+
+si no se entiende dejare los logs según este commando 
+
+git reflog
+
